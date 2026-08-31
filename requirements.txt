@@ -1,0 +1,6 @@
+# Core dependencies for the Web Dashboard
+streamlit>=1.30.0
+pandas>=2.0.0
+altair>=5.0.0
+
+# Note: The Desktop GUI (Tkinter) and CLI run with standard Python alone!
